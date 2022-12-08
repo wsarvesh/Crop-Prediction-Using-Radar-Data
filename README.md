@@ -12,3 +12,5 @@ There are 2 * 49 radar features and 2 * 38 optical features for two dates: 05 an
 Seven crop type classes exist for this data set as follows: 1-Corn; 2-Peas; 3- Canola; 4-Soybeans; 5- Oats; 6- Wheat; and 7-Broadleaf.
 
 The dataset is available online on https://archive.ics.uci.edu/ml/datasets/Crop+mapping+using+fused+optical-radar+data+set
+
+Contributors: Harshwardhan Singh, Sarvesh Wanode, Kunal Pandey
